@@ -6,10 +6,11 @@
 * I'm a Junior at Ho Chi Minh University of Science!
 * 📫 How to reach me **vinhnguyentran2001@gmail.com**
 ## My learning projects: 
+* [Web API App](https://github.com/vinhnguyen2001/NewsApp): A web API application provides API relevant to the news. 
 * [Blue Cloud](https://github.com/vinhnguyen2001/Blue-Cloud): A website application sells and manages the shoes.
 * [Covid App](https://github.com/vinhnguyen2001/Covid_Project-1): A website application that provides solutions for the management of patients and foodstuffs in
 covid-19 period effectively.
-* [Web API App](https://github.com/vinhnguyen2001/NewsApp): A web API application provides API relevant to the news. 
+
 
 ## Connect with me 🌎:
 
