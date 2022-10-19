@@ -1,9 +1,8 @@
 
 # 👋 Hi, I’m Vinh
+* 👨‍💻 I'm a Junior at Ho Chi Minh University of Science!
 * 🌱 I’m currently learning Spring Boot, Spring MVC and ReactJS 
 * 🎯 Goals: Becoming a Backend Developmer
-* 📫 You can contact me by email: vinhnguyentran2001@gmail.com
-* I'm a Junior at Ho Chi Minh University of Science!
 * 📫 How to reach me **vinhnguyentran2001@gmail.com**
 ## My learning projects: 
 * [Web API App](https://github.com/vinhnguyen2001/NewsApp): A web API application provides API relevant to the news. 
