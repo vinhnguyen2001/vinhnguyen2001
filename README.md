@@ -17,7 +17,7 @@ covid-19 period effectively.
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt ="linkedin-icon" align="left" width="35px" />][linkedin]
 
 [facebook]: https://www.facebook.com/vinhntn2001
-[linkedin]: www.linkedin.com/in/vinhntn2001
+[linkedin]: https://www.linkedin.com/in/vinhntn2001/
 <!---
 vinhnguyen2001/vinhnguyen2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
