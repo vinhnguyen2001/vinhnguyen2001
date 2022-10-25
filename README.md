@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m Vinh
-* 👨‍💻 I'm a Junior at Ho Chi Minh University of Science!
+* 👨‍💻 I'm a Senior at Ho Chi Minh University of Science!
 * 🌱 I’m currently learning Spring Boot, Spring MVC and ReactJS 
 * 🎯 Goals: Becoming a Backend Developmer
 * 📫 How to reach me **vinhnguyentran2001@gmail.com**
